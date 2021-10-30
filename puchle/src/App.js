@@ -1,6 +1,6 @@
-import Loginform from './containers/loginform';
+import Loginform from './component/loginform';
 import React, { useState } from 'react';
-import FileUploadPage from './containers/uploadform';
+import FileUploadPage from './component/uploadform';
 
 
 function App() {
